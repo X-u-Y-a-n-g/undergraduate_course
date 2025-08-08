@@ -1,2 +1,3 @@
 # undergraduate_course
 Nankai University undergraduate course
+本仓库涵盖南开大学计算机科学与技术专业课程，课程资料来源于作者整理和学长学姐传承
